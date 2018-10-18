@@ -1,0 +1,6 @@
+phabricator==0.7.0
+python-hglib==2.6.1
+pytest==3.9.1
+pytest-bugzilla-notifier==1.1.9
+requests==2.16.0
+pytest-dotenv==0.2.0
